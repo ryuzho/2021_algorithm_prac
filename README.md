@@ -1,2 +1,2 @@
 # Algorithm_ryu
-test
+백준알고리즘 with Python
